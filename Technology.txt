@@ -1,0 +1,39 @@
+🔧 Core Technologies
+
+    Appium 
+
+    Java 
+
+    Maven 
+
+
+📦 Dependency & Configuration
+
+    Maven (pom.xml)  To manage dependencies like:
+
+        io.appium:java-client
+
+        org.seleniumhq.selenium:selenium-java
+
+        
+
+🧪 Automation Support Libraries
+
+    Selenium WebDriver
+
+    Appium Inspector 
+
+    Page Object Model (POM)
+
+📁 Test Data Management
+
+    Excel (using Apache POI)
+
+    JSON / YAML / CSV – For structured test data input.
+
+🔧 Device Management
+
+    Real Devices – Connected via USB 
+
+    ADB (Android Debug Bridge) – Command-line tool to interact with Android devices.
+
